@@ -1,5 +1,5 @@
 import { Container, VStack, Heading, Text, Button, HStack, IconButton, Image } from "@chakra-ui/react";
-import { Gi3DGlasses, GiPiggyBank, GiRocket } from "react-icons/gi";
+import { FaChartLine, FaPiggyBank, FaRocket } from "react-icons/fa";
 
 const Index = () => {
   return (
@@ -29,15 +29,15 @@ const Index = () => {
 
         <HStack spacing={8} justifyContent="center">
           <VStack>
-            <IconButton aria-label="Investments" icon={<Gi3DGlasses />} size="lg" isRound />
+            <IconButton aria-label="Investments" icon={<FaChartLine />} size="lg" isRound />
             <Text>Smart Investments</Text>
           </VStack>
           <VStack>
-            <IconButton aria-label="Savings" icon={<GiPiggyBank />} size="lg" isRound />
+            <IconButton aria-label="Savings" icon={<FaPiggyBank />} size="lg" isRound />
             <Text>Secure Savings</Text>
           </VStack>
           <VStack>
-            <IconButton aria-label="Growth" icon={<GiRocket />} size="lg" isRound />
+            <IconButton aria-label="Growth" icon={<FaRocket />} size="lg" isRound />
             <Text>Exponential Growth</Text>
           </VStack>
         </HStack>
