@@ -47,7 +47,7 @@ const Index = () => {
             Why Choose FinancePro?
           </Heading>
           <Text>We provide the best tools and resources to help you achieve your financial goals.</Text>
-          <Image src="https://images.unsplash.com/photo-1579621970588-a35d0e7ab9b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxmaW5hbmNpYWwlMjBwbGFubmluZ3xlbnwwfHx8fDE3MTY1MzMxNTV8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Financial Planning" borderRadius="md" />
+          <Image src="https://images.unsplash.com/photo-1604014237744-1b3b2b1b1b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxmaW5hbmNpYWwlMjBwbGFubmluZ3xlbnwwfHx8fDE3MTY1MzMxNTV8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Financial Planning" borderRadius="md" />
         </VStack>
 
         <VStack spacing={4} textAlign="center">
