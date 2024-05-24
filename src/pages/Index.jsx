@@ -22,7 +22,7 @@ const Index = () => {
             Take Control of Your Financial Future
           </Heading>
           <Text fontSize="lg">Join thousands of others who are managing their finances better with FinancePro.</Text>
-          <Button colorScheme="teal" size="lg">
+          <Button colorScheme="red" size="lg">
             Get Started
           </Button>
         </VStack>
@@ -63,7 +63,7 @@ const Index = () => {
             Get In Touch
           </Heading>
           <Text>If you have any questions, feel free to contact us at support@financepro.com</Text>
-          <Button colorScheme="teal" size="lg">
+          <Button colorScheme="red" size="lg">
             Contact Us
           </Button>
         </VStack>
